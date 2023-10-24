@@ -1,10 +1,10 @@
-{'city': 'Seoul', 'temperature': 13.67, 'pressure': 1019, 'humidity': 91, 'description': "u'mist"}
-{'city': 'Washington, D.C.', 'temperature': 3.52, 'pressure': 1016, 'humidity': 68, 'description': "u'few clouds"}
-{'city': 'Canberra', 'temperature': 16.58, 'pressure': 1010, 'humidity': 40, 'description': "u'broken clouds"}
+{'city': 'Seoul', 'temperature': 12.66, 'pressure': 1020, 'humidity': 86, 'description': "u'clear sky"}
+{'city': 'Washington, D.C.', 'temperature': 3.42, 'pressure': 1016, 'humidity': 66, 'description': "u'few clouds"}
+{'city': 'Canberra', 'temperature': 16.52, 'pressure': 1010, 'humidity': 40, 'description': "u'broken clouds"}
 {'city': 'Vienna', 'temperature': 14.66, 'pressure': 1007, 'humidity': 89, 'description': "u'moderate rain"}
-{'city': 'Brussels', 'temperature': 14.09, 'pressure': 1002, 'humidity': 82, 'description': "u'few clouds"}
+{'city': 'Brussels', 'temperature': 14.25, 'pressure': 1002, 'humidity': 82, 'description': "u'few clouds"}
 {'city': 'Ottawa', 'temperature': 6.41, 'pressure': 1022, 'humidity': 94, 'description': "u'overcast clouds"}
-{'city': 'Prague', 'temperature': 13.67, 'pressure': 1005, 'humidity': 85, 'description': "u'overcast clouds"}
+{'city': 'Prague', 'temperature': 13.74, 'pressure': 1005, 'humidity': 87, 'description': "u'overcast clouds"}
 {'city': 'Copenhagen', 'temperature': 11.33, 'pressure': 1010, 'humidity': 81, 'description': "u'light rain"}
 {'city': 'Tallinn', 'temperature': 5.15, 'pressure': 1017, 'humidity': 70, 'description': "u'broken clouds"}
 {'city': 'Helsinki', 'temperature': 2.1, 'pressure': 1018, 'humidity': 81, 'description': "u'broken clouds"}
@@ -16,15 +16,15 @@
 {'city': 'Dublin', 'temperature': 12.07, 'pressure': 1010, 'humidity': 95, 'description': "u'mist"}
 {'city': 'Jerusalem', 'temperature': 26.81, 'pressure': 1010, 'humidity': 59, 'description': "u'clear sky"}
 {'city': 'Rome', 'temperature': 10.22, 'pressure': 1027, 'humidity': 86, 'description': "u'broken clouds"}
-{'city': 'Tokyo', 'temperature': 18.42, 'pressure': 1017, 'humidity': 80, 'description': "u'broken clouds"}
-{'city': 'iga', 'temperature': 16.7, 'pressure': 1019, 'humidity': 79, 'description': "u'moderate rain"}
-{'city': 'Vilnius', 'temperature': 10.71, 'pressure': 1013, 'humidity': 87, 'description': "u'overcast clouds"}
-{'city': 'Luxembourg', 'temperature': 10.78, 'pressure': 1005, 'humidity': 91, 'description': "u'overcast clouds"}
+{'city': 'Tokyo', 'temperature': 18.46, 'pressure': 1017, 'humidity': 80, 'description': "u'broken clouds"}
+{'city': 'iga', 'temperature': 16.39, 'pressure': 1019, 'humidity': 79, 'description': "u'moderate rain"}
+{'city': 'Vilnius', 'temperature': 10.71, 'pressure': 1012, 'humidity': 87, 'description': "u'overcast clouds"}
+{'city': 'Luxembourg', 'temperature': 10.37, 'pressure': 1005, 'humidity': 91, 'description': "u'overcast clouds"}
 {'city': 'Mexico City', 'temperature': 13.86, 'pressure': 1024, 'humidity': 62, 'description': "u'overcast clouds"}
 {'city': 'Amsterdam', 'temperature': 11.81, 'pressure': 998, 'humidity': 88, 'description': "u'light rain"}
-{'city': 'Wellington', 'temperature': 12.54, 'pressure': 1012, 'humidity': 95, 'description': "u'moderate rain"}
-{'city': 'Oslo', 'temperature': 6.3, 'pressure': 1018, 'humidity': 91, 'description': "u'overcast clouds"}
-{'city': 'Warsaw', 'temperature': 15.82, 'pressure': 1009, 'humidity': 71, 'description': "u'few clouds"}
+{'city': 'Wellington', 'temperature': 12.54, 'pressure': 1011, 'humidity': 95, 'description': "u'moderate rain"}
+{'city': 'Oslo', 'temperature': 6.28, 'pressure': 1018, 'humidity': 91, 'description': "u'overcast clouds"}
+{'city': 'Warsaw', 'temperature': 15.77, 'pressure': 1009, 'humidity': 71, 'description': "u'few clouds"}
 {'city': 'Lisbon', 'temperature': 18.4, 'pressure': 1017, 'humidity': 74, 'description': "u'mist"}
 {'city': 'Bratislava', 'temperature': 15.74, 'pressure': 1008, 'humidity': 82, 'description': "u'light rain"}
 {'city': 'Ljubljana', 'temperature': 15.75, 'pressure': 1007, 'humidity': 92, 'description': "u'moderate rain"}

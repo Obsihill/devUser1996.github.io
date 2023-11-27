@@ -1,6 +1,6 @@
 {'city': 'Seoul', 'temperature': -1.04, 'pressure': 1020, 'humidity': 74, 'description': "u'clear sky"}
-{'city': 'Washington, D.C.', 'temperature': 1.58, 'pressure': 1028, 'humidity': 76, 'description': "u'broken clouds"}
-{'city': 'Canberra', 'temperature': 18.79, 'pressure': 1015, 'humidity': 77, 'description': "u'overcast clouds"}
+{'city': 'Washington, D.C.', 'temperature': 1.18, 'pressure': 1028, 'humidity': 74, 'description': "u'broken clouds"}
+{'city': 'Canberra', 'temperature': 19.02, 'pressure': 1014, 'humidity': 77, 'description': "u'overcast clouds"}
 {'city': 'Vienna', 'temperature': 2.85, 'pressure': 998, 'humidity': 82, 'description': "u'clear sky"}
 {'city': 'Brussels', 'temperature': 3.49, 'pressure': 995, 'humidity': 88, 'description': "u'broken clouds"}
 {'city': 'Ottawa', 'temperature': 1.94, 'pressure': 1002, 'humidity': 72, 'description': "u'broken clouds"}
@@ -8,13 +8,13 @@
 {'city': 'Copenhagen', 'temperature': -2.57, 'pressure': 1007, 'humidity': 81, 'description': "u'overcast clouds"}
 {'city': 'Tallinn', 'temperature': -5.02, 'pressure': 997, 'humidity': 76, 'description': "u'heavy snow"}
 {'city': 'Helsinki', 'temperature': -9.23, 'pressure': 999, 'humidity': 86, 'description': "u'snow"}
-{'city': 'Paris', 'temperature': 7.44, 'pressure': 999, 'humidity': 89, 'description': "u'light intensity drizzle"}
-{'city': 'Berlin', 'temperature': -0.31, 'pressure': 986, 'humidity': 89, 'description': "u'light snow"}
+{'city': 'Paris', 'temperature': 7.39, 'pressure': 999, 'humidity': 89, 'description': "u'light intensity drizzle"}
+{'city': 'Berlin', 'temperature': -0.19, 'pressure': 986, 'humidity': 92, 'description': "u'light snow"}
 {'city': 'Athens', 'temperature': 10.6, 'pressure': 1019, 'humidity': 59, 'description': "u'overcast clouds"}
 {'city': 'Budapest', 'temperature': 2.04, 'pressure': 1000, 'humidity': 84, 'description': "u'light rain"}
 {'city': 'Reykjavik', 'temperature': 1.81, 'pressure': 1017, 'humidity': 100, 'description': "u'light snow"}
 {'city': 'Dublin', 'temperature': 16.47, 'pressure': 1019, 'humidity': 41, 'description': "u'clear sky"}
-{'city': 'Jerusalem', 'temperature': 9.61, 'pressure': 1017, 'humidity': 91, 'description': "u'scattered clouds"}
+{'city': 'Jerusalem', 'temperature': 9.61, 'pressure': 1017, 'humidity': 90, 'description': "u'scattered clouds"}
 {'city': 'Rome', 'temperature': 7.64, 'pressure': 1021, 'humidity': 47, 'description': "u'clear sky"}
 {'city': 'Tokyo', 'temperature': 14.77, 'pressure': 1006, 'humidity': 82, 'description': "u'few clouds"}
 {'city': 'iga', 'temperature': 10.15, 'pressure': 1012, 'humidity': 95, 'description': "u'overcast clouds"}
@@ -24,11 +24,11 @@
 {'city': 'Amsterdam', 'temperature': 3.61, 'pressure': 996, 'humidity': 83, 'description': "u'broken clouds"}
 {'city': 'Wellington', 'temperature': 15.36, 'pressure': 1003, 'humidity': 92, 'description': "u'broken clouds"}
 {'city': 'Oslo', 'temperature': -8.27, 'pressure': 1017, 'humidity': 76, 'description': "u'broken clouds"}
-{'city': 'Warsaw', 'temperature': -1.08, 'pressure': 1000, 'humidity': 91, 'description': "u'broken clouds"}
+{'city': 'Warsaw', 'temperature': -1.07, 'pressure': 1000, 'humidity': 91, 'description': "u'broken clouds"}
 {'city': 'Lisbon', 'temperature': 15.33, 'pressure': 1016, 'humidity': 79, 'description': "u'light intensity drizzle"}
 {'city': 'Bratislava', 'temperature': 1.51, 'pressure': 997, 'humidity': 89, 'description': "u'few clouds"}
 {'city': 'Ljubljana', 'temperature': 3.22, 'pressure': 1000, 'humidity': 93, 'description': "u'broken clouds"}
 {'city': 'Madrid', 'temperature': 6.82, 'pressure': 1016, 'humidity': 95, 'description': "u'fog"}
 {'city': 'holm', 'temperature': -4.82, 'pressure': 986, 'humidity': 96, 'description': "u'snow"}
 {'city': 'Bern', 'temperature': 4.09, 'pressure': 1000, 'humidity': 80, 'description': "u'light rain"}
-{'city': 'Ankara', 'temperature': -2.36, 'pressure': 1019, 'humidity': 79, 'description': "u'clear sky"}
+{'city': 'Ankara', 'temperature': -2.38, 'pressure': 1019, 'humidity': 79, 'description': "u'clear sky"}

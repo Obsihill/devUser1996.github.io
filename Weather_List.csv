@@ -1,6 +1,6 @@
-{'city': 'Seoul', 'temperature': 10.19, 'pressure': 1013, 'humidity': 93, 'description': "u'broken clouds"}
-{'city': 'Washington, D.C.', 'temperature': 15.93, 'pressure': 1011, 'humidity': 35, 'description': "u'broken clouds"}
-{'city': 'Canberra', 'temperature': 6.68, 'pressure': 1022, 'humidity': 84, 'description': "u'clear sky"}
+{'city': 'Seoul', 'temperature': 11.66, 'pressure': 1013, 'humidity': 77, 'description': "u'overcast clouds"}
+{'city': 'Washington, D.C.', 'temperature': 15.86, 'pressure': 1011, 'humidity': 36, 'description': "u'broken clouds"}
+{'city': 'Canberra', 'temperature': 6.47, 'pressure': 1022, 'humidity': 83, 'description': "u'clear sky"}
 {'city': 'Vienna', 'temperature': 6.14, 'pressure': 1008, 'humidity': 81, 'description': "u'clear sky"}
 {'city': 'Brussels', 'temperature': 4.63, 'pressure': 1011, 'humidity': 84, 'description': "u'few clouds"}
 {'city': 'Ottawa', 'temperature': 5.31, 'pressure': 1020, 'humidity': 33, 'description': "u'few clouds"}
@@ -15,9 +15,9 @@
 {'city': 'Reykjavik', 'temperature': 8.1, 'pressure': 1017, 'humidity': 79, 'description': "u'overcast clouds"}
 {'city': 'Dublin', 'temperature': 17.89, 'pressure': 1016, 'humidity': 53, 'description': "u'overcast clouds"}
 {'city': 'Jerusalem', 'temperature': 26.15, 'pressure': 1008, 'humidity': 21, 'description': "u'broken clouds"}
-{'city': 'Rome', 'temperature': 23.67, 'pressure': 1018, 'humidity': 52, 'description': "u'overcast clouds"}
+{'city': 'Rome', 'temperature': 23.65, 'pressure': 1017, 'humidity': 50, 'description': "u'few clouds"}
 {'city': 'Tokyo', 'temperature': 15.83, 'pressure': 1003, 'humidity': 88, 'description': "u'broken clouds"}
-{'city': 'iga', 'temperature': 14.39, 'pressure': 1010, 'humidity': 92, 'description': "u'broken clouds"}
+{'city': 'iga', 'temperature': 14.68, 'pressure': 1010, 'humidity': 92, 'description': "u'broken clouds"}
 {'city': 'Vilnius', 'temperature': 7.49, 'pressure': 998, 'humidity': 100, 'description': "u'light rain"}
 {'city': 'Luxembourg', 'temperature': -1.35, 'pressure': 1012, 'humidity': 98, 'description': "u'few clouds"}
 {'city': 'Mexico City', 'temperature': 27.75, 'pressure': 1023, 'humidity': 15, 'description': "u'broken clouds"}

@@ -1,10 +1,10 @@
-{'city': 'Seoul', 'temperature': 26.74, 'pressure': 1007, 'humidity': 83, 'description': "u'light rain"}
+{'city': 'Seoul', 'temperature': 26.74, 'pressure': 1007, 'humidity': 83, 'description': "u'clear sky"}
 {'city': 'Washington, D.C.', 'temperature': 12.95, 'pressure': 1022, 'humidity': 77, 'description': "u'overcast clouds"}
-{'city': 'Canberra', 'temperature': 7.1, 'pressure': 1023, 'humidity': 89, 'description': "u'scattered clouds"}
+{'city': 'Canberra', 'temperature': 7.22, 'pressure': 1023, 'humidity': 88, 'description': "u'few clouds"}
 {'city': 'Vienna', 'temperature': 28.09, 'pressure': 1017, 'humidity': 51, 'description': "u'clear sky"}
 {'city': 'Brussels', 'temperature': 22.18, 'pressure': 1022, 'humidity': 57, 'description': "u'scattered clouds"}
 {'city': 'Ottawa', 'temperature': 22.7, 'pressure': 1021, 'humidity': 89, 'description': "u'few clouds"}
-{'city': 'Prague', 'temperature': 23.03, 'pressure': 1021, 'humidity': 50, 'description': "u'broken clouds"}
+{'city': 'Prague', 'temperature': 22.51, 'pressure': 1022, 'humidity': 50, 'description': "u'broken clouds"}
 {'city': 'Copenhagen', 'temperature': 21.2, 'pressure': 1020, 'humidity': 53, 'description': "u'clear sky"}
 {'city': 'Tallinn', 'temperature': 20.77, 'pressure': 1021, 'humidity': 53, 'description': "u'few clouds"}
 {'city': 'Helsinki', 'temperature': 19.31, 'pressure': 1020, 'humidity': 56, 'description': "u'few clouds"}
@@ -15,7 +15,7 @@
 {'city': 'Reykjavik', 'temperature': 14.81, 'pressure': 1000, 'humidity': 51, 'description': "u'scattered clouds"}
 {'city': 'Dublin', 'temperature': 14.98, 'pressure': 1019, 'humidity': 73, 'description': "u'clear sky"}
 {'city': 'Jerusalem', 'temperature': 32.03, 'pressure': 1008, 'humidity': 34, 'description': "u'clear sky"}
-{'city': 'Rome', 'temperature': 24.54, 'pressure': 1024, 'humidity': 65, 'description': "u'clear sky"}
+{'city': 'Rome', 'temperature': 24.55, 'pressure': 1024, 'humidity': 65, 'description': "u'clear sky"}
 {'city': 'Tokyo', 'temperature': 28.31, 'pressure': 1012, 'humidity': 81, 'description': "u'broken clouds"}
 {'city': 'iga', 'temperature': 27.5, 'pressure': 1011, 'humidity': 95, 'description': "u'heavy intensity rain"}
 {'city': 'Vilnius', 'temperature': 22.49, 'pressure': 1021, 'humidity': 64, 'description': "u'clear sky"}
@@ -29,6 +29,6 @@
 {'city': 'Bratislava', 'temperature': 29.81, 'pressure': 1016, 'humidity': 47, 'description': "u'clear sky"}
 {'city': 'Ljubljana', 'temperature': 28.84, 'pressure': 1015, 'humidity': 55, 'description': "u'broken clouds"}
 {'city': 'Madrid', 'temperature': 32.07, 'pressure': 1014, 'humidity': 33, 'description': "u'few clouds"}
-{'city': 'holm', 'temperature': 25.34, 'pressure': 1021, 'humidity': 56, 'description': "u'few clouds"}
+{'city': 'holm', 'temperature': 24.45, 'pressure': 1021, 'humidity': 63, 'description': "u'few clouds"}
 {'city': 'Bern', 'temperature': 19.87, 'pressure': 1021, 'humidity': 64, 'description': "u'overcast clouds"}
 {'city': 'Ankara', 'temperature': 29.31, 'pressure': 1007, 'humidity': 25, 'description': "u'few clouds"}

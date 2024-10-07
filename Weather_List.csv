@@ -29,6 +29,6 @@
 {'city': 'Bratislava', 'temperature': 7.9, 'pressure': 1013, 'humidity': 94, 'description': "u'clear sky"}
 {'city': 'Ljubljana', 'temperature': 8.46, 'pressure': 1016, 'humidity': 94, 'description': "u'few clouds"}
 {'city': 'Madrid', 'temperature': 16.93, 'pressure': 1006, 'humidity': 75, 'description': "u'overcast clouds"}
-{'city': 'holm', 'temperature': 7.2, 'pressure': 1009, 'humidity': 93, 'description': "u'light rain"}
-{'city': 'Bern', 'temperature': 9.64, 'pressure': 1009, 'humidity': 93, 'description': "u'broken clouds"}
+{'city': 'holm', 'temperature': 7.2, 'pressure': 1009, 'humidity': 93, 'description': "u'overcast clouds"}
+{'city': 'Bern', 'temperature': 9.64, 'pressure': 1009, 'humidity': 93, 'description': "u'light rain"}
 {'city': 'Ankara', 'temperature': 20.73, 'pressure': 1014, 'humidity': 46, 'description': "u'scattered clouds"}

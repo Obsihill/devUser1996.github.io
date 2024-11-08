@@ -1,10 +1,10 @@
 {'city': 'Seoul', 'temperature': 5.76, 'pressure': 1028, 'humidity': 87, 'description': "u'clear sky"}
 {'city': 'Washington, D.C.', 'temperature': 0.12, 'pressure': 1026, 'humidity': 90, 'description': "u'scattered clouds"}
-{'city': 'Canberra', 'temperature': 9.38, 'pressure': 1019, 'humidity': 63, 'description': "u'clear sky"}
+{'city': 'Canberra', 'temperature': 8.8, 'pressure': 1019, 'humidity': 65, 'description': "u'clear sky"}
 {'city': 'Vienna', 'temperature': 11.65, 'pressure': 1030, 'humidity': 62, 'description': "u'overcast clouds"}
 {'city': 'Brussels', 'temperature': 5.14, 'pressure': 1024, 'humidity': 93, 'description': "u'overcast clouds"}
-{'city': 'Ottawa', 'temperature': 8.97, 'pressure': 1008, 'humidity': 71, 'description': "u'broken clouds"}
-{'city': 'Prague', 'temperature': 7.92, 'pressure': 1029, 'humidity': 82, 'description': "u'mist"}
+{'city': 'Ottawa', 'temperature': 8.92, 'pressure': 1008, 'humidity': 72, 'description': "u'broken clouds"}
+{'city': 'Prague', 'temperature': 8.27, 'pressure': 1029, 'humidity': 81, 'description': "u'scattered clouds"}
 {'city': 'Copenhagen', 'temperature': 9.67, 'pressure': 1033, 'humidity': 80, 'description': "u'overcast clouds"}
 {'city': 'Tallinn', 'temperature': 8.47, 'pressure': 1033, 'humidity': 89, 'description': "u'broken clouds"}
 {'city': 'Helsinki', 'temperature': 6.73, 'pressure': 1031, 'humidity': 92, 'description': "u'few clouds"}
@@ -16,7 +16,7 @@
 {'city': 'Dublin', 'temperature': 10.14, 'pressure': 1022, 'humidity': 46, 'description': "u'clear sky"}
 {'city': 'Jerusalem', 'temperature': 19.84, 'pressure': 1017, 'humidity': 65, 'description': "u'overcast clouds"}
 {'city': 'Rome', 'temperature': 18.23, 'pressure': 1020, 'humidity': 96, 'description': "u'clear sky"}
-{'city': 'Tokyo', 'temperature': 12.29, 'pressure': 1029, 'humidity': 60, 'description': "u'few clouds"}
+{'city': 'Tokyo', 'temperature': 12.29, 'pressure': 1028, 'humidity': 60, 'description': "u'few clouds"}
 {'city': 'iga', 'temperature': 9.01, 'pressure': 1028, 'humidity': 79, 'description': "u'overcast clouds"}
 {'city': 'Vilnius', 'temperature': 7.49, 'pressure': 1036, 'humidity': 81, 'description': "u'overcast clouds"}
 {'city': 'Luxembourg', 'temperature': 3.55, 'pressure': 1025, 'humidity': 85, 'description': "u'broken clouds"}

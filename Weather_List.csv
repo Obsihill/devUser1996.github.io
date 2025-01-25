@@ -1,10 +1,10 @@
-{'city': 'Seoul', 'temperature': 8.76, 'pressure': 1029, 'humidity': 43, 'description': "u'clear sky"}
+{'city': 'Seoul', 'temperature': 8.76, 'pressure': 1028, 'humidity': 43, 'description': "u'clear sky"}
 {'city': 'Washington, D.C.', 'temperature': -1.84, 'pressure': 1033, 'humidity': 64, 'description': "u'clear sky"}
 {'city': 'Canberra', 'temperature': 28.89, 'pressure': 1008, 'humidity': 43, 'description': "u'broken clouds"}
 {'city': 'Vienna', 'temperature': 3.36, 'pressure': 1018, 'humidity': 92, 'description': "u'mist"}
 {'city': 'Brussels', 'temperature': 10.11, 'pressure': 1000, 'humidity': 95, 'description': "u'moderate rain"}
 {'city': 'Ottawa', 'temperature': -17.81, 'pressure': 1025, 'humidity': 74, 'description': "u'broken clouds"}
-{'city': 'Prague', 'temperature': 6.44, 'pressure': 1013, 'humidity': 70, 'description': "u'light rain"}
+{'city': 'Prague', 'temperature': 5.63, 'pressure': 1012, 'humidity': 77, 'description': "u'light rain"}
 {'city': 'Copenhagen', 'temperature': 5.01, 'pressure': 1002, 'humidity': 92, 'description': "u'broken clouds"}
 {'city': 'Tallinn', 'temperature': 2.19, 'pressure': 1002, 'humidity': 79, 'description': "u'light rain and snow"}
 {'city': 'Helsinki', 'temperature': 1.62, 'pressure': 1001, 'humidity': 83, 'description': "u'light rain and snow"}
@@ -20,7 +20,7 @@
 {'city': 'iga', 'temperature': 7.23, 'pressure': 1021, 'humidity': 42, 'description': "u'few clouds"}
 {'city': 'Vilnius', 'temperature': 1.35, 'pressure': 1014, 'humidity': 89, 'description': "u'clear sky"}
 {'city': 'Luxembourg', 'temperature': 7.44, 'pressure': 1003, 'humidity': 80, 'description': "u'light rain"}
-{'city': 'Mexico City', 'temperature': 12.75, 'pressure': 1022, 'humidity': 54, 'description': "u'few clouds"}
+{'city': 'Mexico City', 'temperature': 12.75, 'pressure': 1023, 'humidity': 55, 'description': "u'few clouds"}
 {'city': 'Amsterdam', 'temperature': 6.06, 'pressure': 1000, 'humidity': 88, 'description': "u'light intensity drizzle rain"}
 {'city': 'Wellington', 'temperature': 24.81, 'pressure': 1009, 'humidity': 50, 'description': "u'light rain"}
 {'city': 'Oslo', 'temperature': 4.2, 'pressure': 985, 'humidity': 83, 'description': "u'overcast clouds"}
